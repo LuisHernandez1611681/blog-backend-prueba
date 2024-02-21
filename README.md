@@ -1,7 +1,7 @@
 
 # blog-backend-prueba
 
-Este es el backend para consultar y crear artículos para el siguiente proyecto frontend: https://github.com/LuisHernandez1611681/blog-front-prueba
+Este es el backend para consultar y crear artículos y para ver el frontend es el siguiente: https://github.com/LuisHernandez1611681/blog-front-prueba
 
 # Configuracion de base de datos
 
